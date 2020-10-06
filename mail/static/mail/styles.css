@@ -1,0 +1,34 @@
+textarea {
+    min-height: auto;
+}
+#subject{
+  margin-right: 50px;
+  color:red;
+}
+
+.bs-row-link{
+  position: 'absolute';
+  left: 0;
+  height: '36px';
+  width: '100%';
+  cursor: 'pointer';
+}
+.data-table{
+  white-space: pre;
+}
+@media (min-width: 801px){
+  #email-timestamp{
+    float: right;
+  }
+}
+@media (max-width: 800px) {
+  #email-timestamp{
+    float: left;
+  }
+}
+#re-for-block{
+  position: relative;
+}
+#compose-reply{
+  display: none;
+}
