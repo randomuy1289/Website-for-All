@@ -1,1 +1,1 @@
-# Website-for-All
+Hello students, Welcome to Gate smashers
